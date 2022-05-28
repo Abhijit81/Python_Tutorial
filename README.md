@@ -1,2 +1,0 @@
-# Python_Tutorial
-Python_Tutorial_Excercise
